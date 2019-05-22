@@ -27,7 +27,6 @@ public class ReadFileThread extends Thread{
     private BlockingQueue rlist;
     private LinkedBlockingDeque wlist;
     private AtomicInteger num;
-    private AtomicInteger n;
 
 
     public ReadFileThread(TempData data, BlockingQueue rlist, LinkedBlockingDeque wlist, AtomicInteger num){

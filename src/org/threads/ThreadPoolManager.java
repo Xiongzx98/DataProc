@@ -94,6 +94,7 @@ public class ThreadPoolManager {
         }
     }
 
+    //测试用的
     public void start2(Object[] ss) throws InterruptedException {
         for(Object s:ss){
             cdl = new CountDownLatch(1);
