@@ -1,5 +1,5 @@
 # DataProc
-使用第三方工具包(Hanlp git地址: <a href="https://github.com/hankcs/HanLP">https://github.com/hankcs/HanLP</a>)处理文本数据，去除非中文、标点符号，最后将其落盘。
+使用第三方工具包(Hanlp git地址: <a href="https://github.com/hankcs/HanLP">https://github.com/hankcs/HanLP</a>)并发处理文本数据，去除非中文、标点符号，最后将其落盘。
 ------------------------------------------------------------------------
 文本最后输出格式如：
 ```
